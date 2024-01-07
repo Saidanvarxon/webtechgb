@@ -1,0 +1,32 @@
+body {
+    background-image: url(images/backmat.jpg);
+    font-family:Arial, Helvetica, sans-serif;
+}
+.selfphoto {
+    width: 250px;
+    height: 250px;
+    border-radius: 50px;
+
+}
+h1 {
+    color: aliceblue;
+
+}
+
+h2 {
+    color: aliceblue;
+}
+h3 {
+    color: aliceblue;
+}
+p{
+    color: rgb(126, 168, 205);
+    
+}
+li{
+    color: rgb(126, 168, 205);
+
+}
+a{
+    color: brown;
+}
